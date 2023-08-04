@@ -12,9 +12,7 @@ companies.
 
 ## Executing the code 
 1. Open the command prompt and execute the below-mentioned command
-<pre> 
-  python -m flask --app try2 run -p 8000
-</pre>
+<pre> python -m flask --app try2 run -p 8000 </pre>
 2. Open another command prompt and execute the below-mentioned command
 <pre> 
   python -m flask --app try2 run -p 9000
